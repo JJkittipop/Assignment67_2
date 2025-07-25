@@ -10,7 +10,7 @@ runApp(
       title: "My Title",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("My App"),
+          title: Text("BookStore"),
           backgroundColor: Colors.pinkAccent,
           centerTitle: true,
         ),
